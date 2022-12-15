@@ -1,0 +1,7 @@
+name: AkumaNoMi
+version: '${project.version}'
+main: xyz.prismflower.akumanomi.AkumaNoMi
+api-version: 1.19
+authors: [ nan0 ]
+description: pvp plugin for the shinsekai server
+website: prismflower.xyz
