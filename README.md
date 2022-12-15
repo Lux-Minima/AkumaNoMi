@@ -8,6 +8,11 @@ Shin Sekai pvp plugin
 - Command cooldown
 - GUI
 
+**Idea**
+- Haki ( with enchant )
+- Level
+- Mi spawning / dropping
+
 ### Commands
 - `/akuma` or `/mi` - Open de plugin GUI
 
@@ -16,6 +21,9 @@ Shin Sekai pvp plugin
 
 **Sharp Sharp no Mi**
 
-**Bow Bow no Mi**
+
+**Bow Bow no Mi**  
+
+
 
 
